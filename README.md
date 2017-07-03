@@ -12,10 +12,10 @@ Step 2: Include anyslider plugin
 <script src="/yourpath/anyslider.js"></script>
 Step 3: HTML markup
 
-<div class="anyslider">
-    <img src="/images/image1.jpg" />
-    <img src="/images/image2.jpg" />
-    <img src="/images/image3.jpg" />
+<div. class="anyslider">
+    <img. src="/images/image1.jpg" />
+    <img. src="/images/image2.jpg" />
+    <img. src="/images/image3.jpg" />
 </div>
 Step 4: Call anyslider plugin
 
